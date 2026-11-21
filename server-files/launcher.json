@@ -1,0 +1,7 @@
+{
+  "server": { "name": "Fazer Mobile", "ip": "80.242.59.112", "port": 5281 },
+  "client_package": "com.example.sampclient",
+  "client_version": "1.0",
+  "client_url": "http://YOUR_HOSTING/client.apk",
+  "news": ["Открытие сервера", "Добавлена карта"]
+}
